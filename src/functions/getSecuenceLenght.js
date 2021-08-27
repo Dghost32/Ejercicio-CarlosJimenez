@@ -1,7 +1,7 @@
 import isEven from "./isEven.js";
 
 /**
- *  For any positive integer "n" creates a secuence where the first element is n, and the i-th element is (i-1)*2 if (i-1) is even and 3(i-1) + 1 if "n" is odd.
+ *  For any positive integer "n" creates a secuence where the first element is n, and the i-th element is (i-1)*2 if (i-1) is even and 3(i-1) + 1 if (i-1) is odd.
  *
  * @param {number} n
  * @param {number} count
