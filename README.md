@@ -28,6 +28,9 @@ Calcule la suma de todos los elementos de la secuencia anteriormente mencionada,
 Se creó la función recursiva getSecuenceLenght que es la encargada de retornar la longitud de la secuencia para un número indicado,
 Para el reto adicional se utiliza getSecondLenghtAndSum en la que se obtienen las longitudes de todas las cadenas hasta el valor indicado, para obtener la segunda más larga se usan 2 flags, una que contiene el número mayor y otra que contiene el segundo mayor.
 
+## Output por defecto
+![output](img/output.png)
+
 ## Ejecución
 - Clone repo
 - In dir route: `yarn start` or `npm start`
